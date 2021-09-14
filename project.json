@@ -1,6 +1,6 @@
 {
-  "name": "Fixed Deposit Return Calculator",
-  "description": "Blank Process",
+  "name": "Fixed_Deposit_Return_Calculator",
+  "description": "Fixed_Deposit_Return_Calculator",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.10.4]",
